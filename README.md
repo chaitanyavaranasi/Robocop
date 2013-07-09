@@ -17,3 +17,9 @@ Robocop: Automatic Detection, Alert, and Response System using a Raspberry Pi an
 Attached: 1. Source Code
           2. Picture of received text, with link to image/video stream
           3. Sample Picture taken by camera (not of UPS box, unfortunately that isn't on file any more)
+
+Team Members: 
+Chaitanya Varanasi
+Salem Karani
+Sohail Shaikh
+Akash Motani
